@@ -1,8 +1,8 @@
 ---
-title: "Photography"
+title: "Project Management"
 weight: 1
 ---
 
-## Sometimes I take pictures
+## PMO Services
 
-This project is about the pictures I take. Sometimes, they are pictures of cats.
+Coop Creators Project Management Office is a professional service we offer through our COOPs and SACCOS office. Our PMO unit is responsible for working with COOPS throughout their programs to ensure the delivery of high quality products.

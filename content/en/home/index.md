@@ -3,4 +3,4 @@ title: "Welcome to COOP.SD"
 headless: true
 ---
 
-All about Coops in Sudan.
+In partnership with UNDP Accelerator Lab, Sudan.
