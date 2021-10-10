@@ -2,272 +2,262 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://coop.sd/es/projects/photography/</loc>
+    <loc>https://www.coop.sd/es/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/projects/photography/"
+                href="https://www.coop.sd/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/projects/photography/"
+                href="https://www.coop.sd/es/projects/photography/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/projects/design/</loc>
+    <loc>https://www.coop.sd/es/projects/design/</loc>
+  </url><url>
+    <loc>https://www.coop.sd/es/projects/writing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/projects/design/"
+                href="https://www.coop.sd/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/projects/design/"
+                href="https://www.coop.sd/es/projects/writing/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/projects/writing/</loc>
+    <loc>https://www.coop.sd/es/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/projects/writing/"
+                href="https://www.coop.sd/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/projects/writing/"
+                href="https://www.coop.sd/es/projects/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://coop.sd/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://coop.sd/es/projects/"
-                />
-  </url><url>
-    <loc>https://coop.sd/es/blog/</loc>
+    <loc>https://www.coop.sd/es/blog/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/blog/"
+                href="https://www.coop.sd/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/blog/"
+                href="https://www.coop.sd/es/blog/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/tags/code/</loc>
+    <loc>https://www.coop.sd/es/tags/code/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/tags/code/"
+                href="https://www.coop.sd/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/tags/code/"
+                href="https://www.coop.sd/es/tags/code/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/series/quickstart/</loc>
+    <loc>https://www.coop.sd/es/series/quickstart/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/series/quickstart/"
+                href="https://www.coop.sd/series/quickstart/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/series/quickstart/"
+                href="https://www.coop.sd/es/series/quickstart/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/series/</loc>
+    <loc>https://www.coop.sd/es/series/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/series/"
+                href="https://www.coop.sd/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/series/"
+                href="https://www.coop.sd/es/series/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/tags/</loc>
+    <loc>https://www.coop.sd/es/tags/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/tags/"
+                href="https://www.coop.sd/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/tags/"
+                href="https://www.coop.sd/es/tags/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/blog/configuration/</loc>
+    <loc>https://www.coop.sd/es/blog/configuration/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/blog/configuration/"
+                href="https://www.coop.sd/blog/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/blog/configuration/"
+                href="https://www.coop.sd/es/blog/configuration/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/</loc>
+    <loc>https://www.coop.sd/es/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/"
+                href="https://www.coop.sd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/"
+                href="https://www.coop.sd/es/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/blog/long-form-post/</loc>
+    <loc>https://www.coop.sd/es/blog/long-form-post/</loc>
     <lastmod>2019-05-30T20:18:53-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/blog/long-form-post/"
+                href="https://www.coop.sd/blog/long-form-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/blog/long-form-post/"
+                href="https://www.coop.sd/es/blog/long-form-post/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/tags/blog/</loc>
+    <loc>https://www.coop.sd/es/tags/blog/</loc>
     <lastmod>2019-05-30T20:18:53-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/tags/blog/"
+                href="https://www.coop.sd/tags/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/tags/blog/"
+                href="https://www.coop.sd/es/tags/blog/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/blog/hipster-ipsum/</loc>
+    <loc>https://www.coop.sd/es/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/blog/hipster-ipsum/"
+                href="https://www.coop.sd/blog/hipster-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/blog/hipster-ipsum/"
+                href="https://www.coop.sd/es/blog/hipster-ipsum/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/tags/ipsum/</loc>
+    <loc>https://www.coop.sd/es/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/tags/ipsum/"
+                href="https://www.coop.sd/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/tags/ipsum/"
+                href="https://www.coop.sd/es/tags/ipsum/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/tags/words/</loc>
+    <loc>https://www.coop.sd/es/tags/words/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/tags/words/"
+                href="https://www.coop.sd/tags/words/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/tags/words/"
+                href="https://www.coop.sd/es/tags/words/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/blog/startup-ipsum/</loc>
+    <loc>https://www.coop.sd/es/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/blog/startup-ipsum/"
+                href="https://www.coop.sd/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/blog/startup-ipsum/"
+                href="https://www.coop.sd/es/blog/startup-ipsum/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/tags/coffee/</loc>
+    <loc>https://www.coop.sd/es/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/tags/coffee/"
+                href="https://www.coop.sd/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/tags/coffee/"
+                href="https://www.coop.sd/es/tags/coffee/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/blog/coffee-ipsum/</loc>
+    <loc>https://www.coop.sd/es/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/blog/coffee-ipsum/"
+                href="https://www.coop.sd/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/blog/coffee-ipsum/"
+                href="https://www.coop.sd/es/blog/coffee-ipsum/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/tags/images/</loc>
+    <loc>https://www.coop.sd/es/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/tags/images/"
+                href="https://www.coop.sd/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/tags/images/"
+                href="https://www.coop.sd/es/tags/images/"
                 />
   </url><url>
-    <loc>https://coop.sd/es/blog/no-date/</loc>
+    <loc>https://www.coop.sd/es/blog/no-date/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://coop.sd/blog/no-date/"
+                href="https://www.coop.sd/blog/no-date/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://coop.sd/es/blog/no-date/"
+                href="https://www.coop.sd/es/blog/no-date/"
                 />
   </url>
 </urlset>

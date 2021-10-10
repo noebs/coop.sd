@@ -1,4 +1,4 @@
-baseURL                          = "https://coop.sd/"   # Your domain name. Must end with "/"
+baseURL                          = "https://www.coop.sd/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
@@ -51,15 +51,9 @@ DefaultContentLanguage           = "en"                    # Default language fo
         icon  = "linkedin-in" # icon name without the 'fa-'
         icon_pack = "fab"
     [[params.social]]
-        url = "mailto:youremail@email.com"  # For a direct email link, use "mailto:test@example.org".
+        url = "mailto:info@coop.sd"  # For a direct email link, use "mailto:test@example.org".
         icon = "paper-plane" # icon name without the 'fa-'
         icon_pack = "fas"
-    [[params.social]]
-        url   = "https://mastodon.social/"
-        icon  = "mastodon" # icon name without the 'fa-'
-        icon_pack = "fab"
-        html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
-
 
 # If you don't want to use the default menu, you can define one by yourself
 # [[menu.main]]
@@ -102,7 +96,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         weight           = 0
         title            = "Introduction"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
+            description  = "Coops in Sudan. Get to know more"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
     [languages.es]

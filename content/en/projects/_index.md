@@ -3,4 +3,4 @@ title: "Projects"
 weight: 10
 ---
 
-Here is some introduction text for my projects. You can set this text in the `/projects/_index.md` file. This page uses the `/layouts/projects/list.html` template.
+Interested to know more about the projects we worked on and our offerings! Check this list and always feel free to contact us if you need any inquiries or information.

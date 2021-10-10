@@ -2,37 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Introduction</title>
-    <link>https://coop.sd/projects/</link>
+    <link>https://www.coop.sd/projects/</link>
     <description>Recent content in Projects on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://coop.sd/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.coop.sd/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Management</title>
-      <link>https://coop.sd/projects/photography/</link>
+      <link>https://www.coop.sd/projects/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coop.sd/projects/photography/</guid>
+      <guid>https://www.coop.sd/projects/photography/</guid>
       <description>PMO Services Coop Creators Project Management Office is a professional service we offer through our COOPs and SACCOS office. Our PMO unit is responsible for working with COOPS throughout their programs to ensure the delivery of high quality products.</description>
     </item>
     
     <item>
-      <title>Project Management</title>
-      <link>https://coop.sd/projects/design/</link>
+      <title>Training Programs</title>
+      <link>https://www.coop.sd/projects/training/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coop.sd/projects/design/</guid>
-      <description>This theme was designed by Victoria Drake. Go on, explore! 💪
-If you want to use it for your website, check out the section at the bottom of the main page. 👍</description>
+      <guid>https://www.coop.sd/projects/training/</guid>
+      <description>International Day of Cooperatives.</description>
     </item>
     
     <item>
-      <title>Writing</title>
-      <link>https://coop.sd/projects/writing/</link>
+      <title>COOPS TOT</title>
+      <link>https://www.coop.sd/projects/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://coop.sd/projects/writing/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+      <guid>https://www.coop.sd/projects/writing/</guid>
+      <description>Coops training of trainers Program.</description>
     </item>
     
   </channel>
